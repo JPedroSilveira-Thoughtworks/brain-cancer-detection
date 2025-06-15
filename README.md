@@ -4,8 +4,9 @@
 Multiple brain tumor datasets were used for this task, most of them are available only for classification tasks for supervised learning, but one (Figshare) also has segmentation information using masks which can be useful to evaluate how the classification models learned.
 
 ### Figshare: Brain tumor dataset
-Consisting of a wide-ranging compilation of 3064 T1-weighted contrastenhanced MRI images captured in the form of two–dimensional (2D) slices with a resolution of 512×512 pixels, obtainined from sagittal, coronal, and axial planes and originated from a group of 233 patients diagnosed with three distinct types of BT:
-Glioma, Meningioma, and Pituitary tumor. Specifically, the dataset comprises 1426 slices corresponding to Glioma cases, 708 slices from patients with Meningioma, and 930 slices depicting Pituitary tumors.
+Consisting of a wide-ranging compilation of 3064 T1-weighted contrastenhanced MRI images captured in the form of two–dimensional (2D) slices with a resolution of 512×512 pixels, obtainined from sagittal, coronal, and axial planes and originated from a group of 233 patients diagnosed with three distinct types of BT: Glioma, Meningioma, and Pituitary tumor. 
+Specifically, the dataset comprises 1426 slices corresponding to Glioma cases, 708 slices from patients with Meningioma, and 930 slices depicting Pituitary tumors.
+All images were acquired after Gd-DTPA injection at Nanfang Hospital, Guangzhou, China and General Hospital, Tianjin Medical University, China from 2005.9 to 2010.10. The images have an in-plane resolution of 512 × 512 with pixel dimensions of 0.49 × 0.49 mm^2 . The slice thickness is 6 mm and the slice gap is 1 mm. The Gd dose was 0.1 mmol/kg at a rate of 2 ml/s. 
 
 Available at: https://doi.org/10.6084/m9.figshare.1512427.v8
 
