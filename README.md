@@ -42,3 +42,7 @@ Contains 1500 MRI images classified as with tumor and 1500 MRI images without tu
 There are no references about how the dataset was created and neither a DOI id for citation.
 
 Available at: https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
+
+## Google Cloud Service
+Given you are not running this code on a native environment on GCP you will need an application key and install the GCS connector on your cluster.
+Use Maven: com.google.cloud.bigdataoss:gcs-connector:hadoop3-2.2.5
